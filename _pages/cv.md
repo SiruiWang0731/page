@@ -42,6 +42,7 @@ Work experience
   10/2023 – 02/2024  
   * Conduct lectures for scientific paper writing and effective presentation techniques
   * Offer personalized tutoring sessions to guide individuals in mastering the principles and techniques of 3D building model reconstruction
+    
 ---
 
 Skills
