@@ -11,5 +11,5 @@ authors: "Qingsong Xu, **Sirui Wang**, Yueli Chen, Yilei Shi, Xiaoxiang Zhu"
 
 paperurl: "https://www.researchgate.net/publication/397380598_KI-basierte_Modellierung_urbaner_Hochwasserprozesse_im_Kontext_von_Starkregenereignissen_AI-based_modeling_of_urban_flooding_processes_in_the_context_of_heavy_rainfall_events"
 
-citation: "Xu, Q., Wang, S., Chen, Y., Shi, Y., Zhu, X. X. (2025). \"KI-basierte Modellierung urbaner Hochwasserprozesse im Kontext von Starkregenereignissen.\" <i>Tag der Hydrologie</i>."
+
 ---
