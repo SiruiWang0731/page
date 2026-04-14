@@ -1,7 +1,7 @@
 ---
 title: "GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution"
 collection: publications
-authors: Sirui Wang, Jiang He, Natàlia Blasco Andreo, Xiao Xiang Zhu
+authors: **Sirui Wang**, Jiang He, Natàlia Blasco Andreo, Xiao Xiang Zhu
 category: conferences
 permalink: /publication/2026-aaai-gewdiff
 excerpt: "Diffusion-based generative model for hyperspectral image super-resolution with geometric enhancement."
