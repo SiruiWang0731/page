@@ -1,7 +1,7 @@
 ---
 title: "HYPERFUSE: Spectral-Spatial Fusion for Hyperspectral Remote Sensing"
 collection: publications
-authors: Sirui Wang et, al.
+authors: "**Sirui Wang** et, al."
 category: conferences
 permalink: /publication/2025-whispers-hyperfuse
 excerpt: "Multimodal spectral-spatial fusion framework for hyperspectral remote sensing."
