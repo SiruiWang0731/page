@@ -8,6 +8,6 @@ excerpt: "Diffusion-based generative model for hyperspectral image super-resolut
 date: 2026-03-14
 venue: "AAAI Conference on Artificial Intelligence"
 paperurl: "https://ojs.aaai.org/index.php/AAAI/article/view/37978"
-coderurl: "https://github.com/zhu-xlab/GEWDiff"
+codeurl: "https://github.com/zhu-xlab/GEWDiff"
 image: "/images/gew.png"
 ---
