@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sirui Wang"
+title                    : "Sirui Wang | Personal Website"
 title_separator          : "-"
 name                     : &name "Sirui Wang"
 description              : &description "PhD student at Technical University of Munich working on Generative AI, Data Science, and Computer Vision"
